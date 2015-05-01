@@ -1,0 +1,16 @@
+build
+classes
+out
+target
+
+.gradle
+.DS_Store
+.vagrant
+
+*.ipr
+*.iws
+*.iml
+
+.classpath
+.project
+.idea
