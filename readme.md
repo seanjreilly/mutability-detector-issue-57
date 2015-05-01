@@ -1,0 +1,2 @@
+A sample project illustrating an issue I found with Mutability detector issue [#57](https://github.com/MutabilityDetector/MutabilityDetector/issues/57).
+Build using gradle by typing `./gradlew clean build` (or `gradlew clean build` on Windows).
